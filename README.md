@@ -2,7 +2,8 @@
 Arithmetic Calculator with given input file.
 
 ## Setup
-* Open file called "priklad.txt".
+* Download this repo.
+* Open the file called "priklad.txt".
 * Input any basic arithmetic operation: 
 * Example : (2 + 5) * (13 - 4)
 * Save the text file
