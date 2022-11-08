@@ -1,7 +1,7 @@
 # Arithmetic_calculator
 Arithmetic Calculator with given input file.
 
-##Setup
+## Setup
 * Open file called "priklad.txt".
 * Input any arithmetic operation: *Currently supports only basic operators (+,-,*,÷,)*
 * Example : (2 + 5) * (13 - 4)
